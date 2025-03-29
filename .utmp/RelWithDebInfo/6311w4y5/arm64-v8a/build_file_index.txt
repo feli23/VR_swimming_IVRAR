@@ -1,0 +1,2 @@
+D:\Uni\Informatik\IARVR\VR-locomotion-parkour-main_2\VR_swimming_Felicia_Bossani\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Uni\Informatik\IARVR\VR-locomotion-parkour-main_2\VR_swimming_Felicia_Bossani\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

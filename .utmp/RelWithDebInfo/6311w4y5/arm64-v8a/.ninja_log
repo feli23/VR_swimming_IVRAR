@@ -1,0 +1,19 @@
+# ninja log v5
+29	884	7609270500775086	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	7bf82bacb52d75e8
+70	1035	7609270502328496	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	98853a9569f77ce8
+9	904	7609270500994497	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	16b44c72cd037af3
+21	916	7609270501124151	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6500a41b502b5970
+15	1011	7609270502088717	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5408fa29c34ec2b0
+49	963	7609270501611047	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7ca251b9a73478ad
+40	1141	7609270503392051	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6c67b3f6f001f18c
+1241	1332	7609270505267274	D:/Uni/Informatik/IARVR/VR-locomotion-parkour-main_2/VR_swimming_Felicia_Bossani/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6311w4y5/obj/arm64-v8a/libgame.so	6e89b3d074ec015c
+1	1240	7609270504367541	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	737af1b3baf63259
+27	798	7609296516180872	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	7bf82bacb52d75e8
+2	809	7609296516300541	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	16b44c72cd037af3
+14	816	7609296516350409	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6500a41b502b5970
+18	929	7609296517168298	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7ca251b9a73478ad
+31	956	7609296517766682	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	98853a9569f77ce8
+7	983	7609296518085837	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5408fa29c34ec2b0
+22	1134	7609296519595565	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6c67b3f6f001f18c
+10	1210	7609296520360322	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	737af1b3baf63259
+1210	1336	7609296521593873	D:/Uni/Informatik/IARVR/VR-locomotion-parkour-main_2/VR_swimming_Felicia_Bossani/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6311w4y5/obj/arm64-v8a/libgame.so	6e89b3d074ec015c
